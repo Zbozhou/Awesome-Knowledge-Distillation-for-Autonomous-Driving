@@ -18,7 +18,7 @@
 
 1. Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection. [NeurIPS 2023](https://arxiv.org/abs/2310.15670) [[Official Code]](https://github.com/OpenDriveLab/Birds-eye-view-Perception/tree/master/nuScenes_playground/VCD)
 
-2. BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection. [Arxiv 2023](https://arxiv.org/abs/2303.16818) [[Official Code]](https://github.com/ViTAE-Transformer/BEVSimDet)
+2. BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection. [AAAI 2024](https://arxiv.org/abs/2303.16818) [[Official Code]](https://github.com/ViTAE-Transformer/BEVSimDet)
 
 3. Distilling Focal Knowledge From Imperfect Expert for 3D Object Detection. [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zeng_Distilling_Focal_Knowledge_From_Imperfect_Expert_for_3D_Object_Detection_CVPR_2023_paper.html) [[Official Code]](https://github.com/OpenDriveLab/Birds-eye-view-Perception/blob/master/nuScenes_playground/FocalDistiller.md)
 
