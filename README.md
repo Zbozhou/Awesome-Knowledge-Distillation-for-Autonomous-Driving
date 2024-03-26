@@ -82,7 +82,10 @@
 1. Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving. [ICCV 2023](https://arxiv.org/abs/2309.14491)
 
 
+## Others for AD
 
+
+1. SCPNet: Semantic Scene Completion on Point Cloud. [CVPR2023](https://arxiv.org/abs/2303.06884)
 
 
 
