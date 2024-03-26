@@ -85,7 +85,7 @@
 ## Others for AD
 
 
-1. SCPNet: Semantic Scene Completion on Point Cloud. [CVPR2023](https://arxiv.org/abs/2303.06884) [[Official Code]]([https://github.com/xy-guo/LIGA-Stereo](https://github.com/SCPNet/Codes-for-SCPNet?tab=readme-ov-file#scpnet-semantic-scene-completion-on-point-cloud-cvpr-2023-highlight))
+1. SCPNet: Semantic Scene Completion on Point Cloud. [CVPR2023](https://arxiv.org/abs/2303.06884) [[Official Code]](https://github.com/SCPNet/Codes-for-SCPNet)
 
 
 
